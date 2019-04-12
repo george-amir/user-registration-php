@@ -5,7 +5,7 @@ return [
     'host'      => 'localhost',
     'database'  => 'user_registration',
     'username'  => 'root',
-    'password'  => 'gogo1994',
+    'password'  => '',
     'charset'   => 'utf8',
     'collation' => 'utf8_unicode_ci',
     'prefix'    => '',
